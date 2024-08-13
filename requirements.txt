@@ -1,7 +1,7 @@
 openai==0.28
 tiktoken 
 chromadb==0.3.26
-langchain==0.0.249
+langchain==0.2.3
 flask
 GitPython
 python-dotenv
