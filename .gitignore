@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 llmapp/
+research/data/
+research/test_repo/
